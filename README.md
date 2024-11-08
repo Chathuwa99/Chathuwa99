@@ -1,11 +1,11 @@
 ![logo](https://raw.githubusercontent.com/Chathuwa99/Chathuwa99/main/Profile.png)
 <img align="left" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="21%" style="display:inline;">
 
-<h1 align="center">Hi 👋, I'm  Dayarathne</h1>
+<h1 align="center">Hey 👋, I'm  Chathuranga</h1>
 
 <p align="center">
 	<a href="https://github.com/Bouaskaoun">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=Shopify+Expert;Frontend+Developer;React%20|%20Gatsby%20|%20Next+Enthusiast;DL%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com/?lines=Frontend+Developer;Graphics+Desingner;React%20|%20Next+Enthusiast;DS%20|%20AI%20|%20ML%20Applications;Always%20developing%20my%20skills&center=true&width=380&height=45">
 	</a>
 </p>
 
@@ -87,16 +87,16 @@
 
 <br/>
 
-
+---
  <div>
   <img src="https://github.com/Pepyn0/Pepyn0/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
 </div>
- ---
+
 <h3 align="left">GitHub Stats:</h3>
 
 <img align="left" src="https://github-readme-stats.sumanth-talluri.vercel.app/api?username=Chathuwa99&show_icons=true&title_color=fff&icon_color=79ff97&text_color=efefef&bg_color=24292e" alt="Chathuranga's Github Stats" width="60%">
   
-<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Chathuwa99&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Sumanth's Top Languages">
+<img src="https://github-readme-stats.sumanth-talluri.vercel.app/api/top-langs/?username=Chathuwa99&show_icons=true&hide_border=true&theme=radical" width="37%" alt="Chathuranga's Top Languages">
 
 
 <div align="center">
@@ -113,4 +113,4 @@
 
 <h3 align="left">Activity:</h3>
 
-![Chathuwa99's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chathuwa99&custom_title=Chathuwa99's%20GitHub%20Activity%20Graph&bg_color=141321&color=ffffff&line=4e00c2&point=ffffff&hide_border=true)
+![Chathuranga's Graph](https://github-readme-activity-graph.vercel.app/graph?username=Chathuwa99&custom_title=Chathuwa99's%20GitHub%20Activity%20Graph&bg_color=141321&color=ffffff&line=4e00c2&point=ffffff&hide_border=true)
